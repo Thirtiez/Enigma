@@ -1,10 +1,6 @@
 # Enigma
  
-This is a public copy of a private repository from a colleague.
-
-Here is the original: https://github.com/gianny92/Enigma
-
-
+This is a public copy of a private repository from a colleague. [Here](https://github.com/fpolidoro/InformaticaGrafica) is the original.
 
 Credits to:
 
